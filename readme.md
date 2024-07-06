@@ -1,6 +1,5 @@
 # Pizzeria Chatbot
 
-This project implements a simple chatbot for a fictional pizzeria. The chatbot can take orders based on a provided menu, calculate the total amount, and communicate with the customer.
 
 # Description 
 This is a fictional pizzeria chatbot that takes orders from customers based on the provided menu. it calculates the total amount of the order and communicates it to the customer. if an item is not available, th chatbot informs the customer andn asksk them to pick from the vaialble options. The chatbot keeps track of he covertions to remember previour interactions.
@@ -29,11 +28,3 @@ coke 3.00, 2.00, 1.00
 sprite 3.00, 2.00, 1.00 
 bottled water 5.00 \
 
-## How to Run
-
-1. Clone the repository to your local machine.
-2. Ensure you have Python installed.
-3. Navigate to the project directory in your terminal.
-4. Run the following command to start the chatbot:
-   ```bash
-   python main.py
